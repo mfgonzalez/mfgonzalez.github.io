@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Build the site in the jekyll/builder container
     - uses: actions/checkout@v2
     - uses: helaili/jekyll-action@2.0.1
       env:

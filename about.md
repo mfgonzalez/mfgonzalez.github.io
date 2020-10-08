@@ -3,12 +3,14 @@ layout: page
 title: About
 ---
 
-Hi! My name is Marcelo Gonzalez and I'm a software engineer at [Creditas](http://www.creditas.com).
+Olá! Meu nome é Marcelo Gonzalez e atualmente sou programador na [Creditas](http://www.creditas.com).
 
-I want to use this space to share what I am studing in subjects like software engineering and data engineering as well.
+Eu pretendo utilizar este espaço para compartilhar o que eu estou estudando! Sempre tive vontade de compartilhar algomas por muito tempo pensei que não saberia o suficiente para me expor na internet, mas depois de ver muitos exemplos de gente muito boa que aprende enquanto compartilha, resolvi tentar fazer o mesmo!
 
-You can also find me here:
+Estou escrevendo em português e prentendo continuar fazendo isso pensando em facilitar o acesso, principalmente às pessoas que estão começando na área. Nesse momento o inglês pode ser uma dificuldade adicional e essa não é a minha intenção!
+
+Você também pode me encontrar aqui:
 [GitHub](https://github.com/mfgonzalez)
-[LinkedIn](https://www.linkedin.com/in/marcelofgonzalez)
+[LinkedIn](http://www.linkedin.com/in/marcelofgonzalez)
 [Twitter](https://twitter.com/mfgonzalez1978)
 [Instagram](https://www.instagram.com/mfgonzalez/)

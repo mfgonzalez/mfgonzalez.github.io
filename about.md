@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
 Olá! Meu nome é Marcelo Gonzalez e atualmente sou programador na [Creditas](http://www.creditas.com).

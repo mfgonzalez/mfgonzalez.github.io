@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mfgonzalez</title>
+    <description>Página do Marcelo! :)</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>Marcelo Gonzalez</name>
+      <email>mfgonzalez@gmail.com</email>
+      <uri>https://mfgonzalez.github.io</uri>
+    </author>
+    
+      <item>
+        <title>Aprendendo em Público</title>
+        <description>&lt;p&gt;Este texto é uma tradução para o Português do artigo &lt;a href=&quot;https://www.swyx.io/writing/learn-in-public/&quot;&gt;Learn in Public&lt;/a&gt; escrito por &lt;a href=&quot;https://twitter.com/swyx&quot;&gt;Shawn Wang&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-maneira-mais-rápida-de-aprender&quot;&gt;&lt;a href=&quot;#header-3&quot;&gt;&lt;/a&gt;A maneira mais rápida de aprender&lt;/h3&gt;
+
+&lt;p&gt;Se existe um regra de ouro, é esta aqui, então vou colocá-la em primeiro. Todas as outras regras são mais pu menos ebalorações sobre a regra número 1.&lt;/p&gt;
+
+&lt;p&gt;Você já sabe que nunca vai terminar de aprender. Mas muitas pessoas “aprendem no privado” e se esconde. Eles consomem conteúdo sem criar nenhum. Novamente, tudo bem, mas estamos aqui para falar sobre como se destacar. O que você faz aqui é ter o hábito de criar um exaustor de aprendizagem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Escreva blogs, tutoriais e cheatsheets&lt;/li&gt;
+  &lt;li&gt;Fale em meetups e conferências&lt;/li&gt;
+  &lt;li&gt;Pergunte e responda no Stackoverflow ou no Reddit. &lt;strong&gt;Evite&lt;/strong&gt; lugares fechados como Slack e Discord. Eles não são públicos&lt;/li&gt;
+  &lt;li&gt;Faça vídeos no YouTube e /ou streams no Twitch&lt;/li&gt;
+  &lt;li&gt;Começe uma newsletter&lt;/li&gt;
+  &lt;li&gt;Desenhe (&lt;a href=&quot;https://code-cartoons.com/&quot;&gt;pessoas&lt;/a&gt; &lt;a href=&quot;https://wizardzines.com/&quot;&gt;adoram&lt;/a&gt; &lt;a href=&quot;https://arkwright.github.io/scaling-react-server-side-rendering.html&quot;&gt;desenhos&lt;/a&gt;!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Seja o que for, &lt;strong&gt;faça o que você gostaria de ter encontrado&lt;/strong&gt; quando estava aprendendo. &lt;strong&gt;Não avalie&lt;/strong&gt; seus resultados baseado em aplausos, retweets, estrelas ou votos positivos. Apenas converse com o seu “Eu mesmo” de 3 meses atrás. Eu mantenho quase diariamente um blog sobre desenvolvimento escrito para ninguém mais além de mim.&lt;/p&gt;
+
+&lt;p&gt;Adivinha? Não se trata de alcançar o maior número possível de pessoas com seu conteúdo. Se você pode fazer isso, ótimo, lembre-se de mim quando você for famoso. Mas as chances são de que, de longe, o maior beneficiário de você tentar ajudar o você do passado seja o você do futuro. Se outros se beneficiam, isso é um bônus.&lt;/p&gt;
+
+&lt;p&gt;Ah… Você pensa que acabou? Não para por aqui:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Você gostou de um vídeo sobre programação? Entre em contato com a pessoa que criou o conteúdo, agradeça e faça perguntas.&lt;/li&gt;
+  &lt;li&gt;Faça pull requests para libs que você utiliza.&lt;/li&gt;
+  &lt;li&gt;Faça suas próprias libs que ninguém jamais vai utilizar&lt;/li&gt;
+  &lt;li&gt;Clone coisas que você gosta, do zero, para ver como elas funcionam&lt;/li&gt;
+  &lt;li&gt;Ministre workshops&lt;/li&gt;
+  &lt;li&gt;Vá a conferências e resuma o que você aprendeu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se você está cansado de criar coisas únicas, comece a construir uma base de conhecimento persistente que cresce com o tempo. Abra o código do seu conhecimento! Em cada etapa do caminho: Documente o que você fez e os problemas que resolveu.&lt;/p&gt;
+
+&lt;p&gt;O subtítulo dessa regra seria: &lt;strong&gt;Tente o seu melhor para estar certo, mas não se preocupe quando estiver errado&lt;/strong&gt;. Repetidamente. Se você se sentir desconfortável ou como um impostor, ótimo. Você está se esforçando. Não presuma que você sabe tudo, mas tente o seu melhor de qualquer maneira e deixe a Internet corrigi-lo quando você estiver inevitavelmente errado. Tenha sua &lt;em&gt;noobyness&lt;/em&gt; em sua manga.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;As pessoas acham que você é péssimo?&lt;/strong&gt; Boa. Você concorda. Peça que expliquem, em detalhes, por que você é péssimo. Você quer apenas se sentir bem ou quer ser bom? Sem objeções, sem mágoas. Então vá embora e prove que eles estão errados. Claro, se eles se tornarem abusivos, bloqueie-os.&lt;/p&gt;
+
+&lt;p&gt;Eu mencionei que ensinar é a melhor maneira de aprender? &lt;strong&gt;Fale enquanto você codifica&lt;/strong&gt;. Pode ser estressante e eu não fiz muito isso, mas minhas melhores entrevistas técnicas foram quando acabei falando como se estivesse ensinando, em vez de tentar desesperadamente me provar. Somos animais, somos atraídos pela confiança e sentimos o cheiro do desespero.&lt;/p&gt;
+
+&lt;p&gt;Em algum momento, você terá algum apoio. As pessoas percebem aprendizes verdadeiros. Eles vão querer ajudá-lo. Não diga a eles, mas eles se tornaram seus mentores. &lt;strong&gt;Isso é muito importante: pegue o que eles te dão&lt;/strong&gt;. Pense neles como uma oferta de missões para você completar. Quando eles dizem “Alguém está disposto a ajudar com __ __?” você é aquele garoto da primeira fila com a mão levantada. Esses são engenheiros seniores, algumas das pessoas mais solicitadas em tecnologia. Eles vão passar mais tempo com você, cara a cara, se você os ajudar (obs: e sempre há algo em que eles querem ajuda). Você não pode pagar por essas coisas. Eles vão te ensinar de graça. A maioria das pessoas não vê o que está bem na frente delas. Mas não você.&lt;/p&gt;
+
+&lt;p&gt;“Com tantos desenvolvedores juniores por aí, por que eles vão me ajudar?”, Você pergunta.&lt;/p&gt;
+
+&lt;p&gt;Porque você aprende em público. Ensinando você, eles ensinam muitos. Você os amplifica. Você tem uma coisa que eles não têm: uma mente de iniciante. Você vê como isso funciona?&lt;/p&gt;
+
+&lt;p&gt;Em algum momento, as pessoas começarão a pedir sua ajuda por causa de todas as coisas que você faz. 80% dos desenvolvedores são “ocultos”, eles não escrevem, não falam ou participam do discurso público de tecnologia. Mas você faz. Você deve ser um especialista, certo? Não diga a eles que você não é. Responda o melhor que puder e, quando estiver travado ou errado, passe para seus mentores.&lt;/p&gt;
+
+&lt;p&gt;Eventualmente, você fica sem mentores e apenas resolve as coisas por conta própria. Você ainda está publicando conteúdo. Você vê como isso funciona?&lt;/p&gt;
+
+&lt;p&gt;Aprenda em público.&lt;/p&gt;
+
+&lt;p&gt;Obs: Eventualmente, eles vão querer pagar por sua ajuda também. Muito mais do que você pensa.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+        <link>//aprendendo-em-publico</link>
+        <link href="/aprendendo-em-publico"/>
+        <guid isPermaLink="true">/aprendendo-em-publico</guid>
+      </item>
+    
+  </channel>
+</rss>
